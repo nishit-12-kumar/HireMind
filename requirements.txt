@@ -1,0 +1,27 @@
+# Orchestration & Framework
+langgraph
+langchain
+pydantic>=2.0.0
+tenacity
+
+# LLM Providers
+langchain-groq
+langchain-google-genai
+
+# Vector Memory & Embeddings
+chromadb
+sentence-transformers
+scikit-learn
+
+# Data Processing
+pdfplumber
+
+# User Interface
+streamlit
+torchvision
+
+# Environment Management
+python-dotenv
+fpdf
+
+# -e .
