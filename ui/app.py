@@ -19,9 +19,9 @@ from src.utils.exception import CustomException
 logger.info("Starting HR Multi-Agent System Streamlit Dashboard...")
 
 # --- Page Configuration ---
-st.set_page_config(page_title="HR Multi-Agent Optimizer", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="HireMind: Multi-Agent Recruitment System", page_icon="🤖", layout="wide")
 
-st.title("HR Optimization with Multi-Agent System")
+st.title("HireMind: Multi-Agent Recruitment System")
 st.markdown("Automate early-stage recruitment with context-aware AI agents.")
 
 # --- Initialize Session State ---
