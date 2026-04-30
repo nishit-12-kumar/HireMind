@@ -24,4 +24,4 @@ torchvision
 python-dotenv
 fpdf
 
-# -e .
+-e .
