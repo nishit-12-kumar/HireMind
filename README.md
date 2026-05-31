@@ -22,7 +22,7 @@ The platform accepts a Job Description (JD) and multiple candidate resumes, then
 Displays job description input, resume upload interface, and pipeline controls.
 
 ![Main Dashboard](screenshots/dashboard.png)
-(screenshots/dashboard1.png)
+![Sidebar Dashboard](screenshots/dashboard1.png)
 
 ---
 
