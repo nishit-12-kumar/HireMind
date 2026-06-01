@@ -2,6 +2,11 @@
 
 > An AI-powered recruitment platform that automates candidate screening, semantic matching, interview generation, and HR reporting using Large Language Models, Vector Embeddings, LangGraph, and Streamlit.
 
+🔗 **Live Demo:** https://hiremind--multi-agent-recruitment-system.streamlit.app/
+
+---
+
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-green)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
